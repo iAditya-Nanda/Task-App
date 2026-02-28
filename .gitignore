@@ -1,0 +1,35 @@
+# General
+.DS_Store
+.env
+*.log
+
+# Node.js
+node_modules/
+dist/
+.next/
+out/
+build/
+.turbo
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android
+**/*.apk
+**/*.aab
+.gradle/
+local.properties
+*.keystore
+*.jks
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
