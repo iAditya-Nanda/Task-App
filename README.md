@@ -6,30 +6,36 @@ Everything is synced up, looks beautiful, and just works.
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 
-### 💻 Web Dashboard (Next.js)
+### Web Dashboard (Next.js)
 A clean, desktop-first workspace with glassmorphism and real-time updates.
 
 <div align="center">
   <img src="Project%20ScreenShots/NextJS%20web-app/Screenshot%20from%202026-02-28%2008-12-24.png" width="45%" border="1" /> 
   <img src="Project%20ScreenShots/NextJS%20web-app/Screenshot%20from%202026-02-28%2008-13-24.png" width="45%" border="1" />
   <br>
+  <img src="Project%20ScreenShots/NextJS%20web-app/Screenshot%20from%202026-02-28%2008-13-38.png" width="45%" border="1" />
+  <img src="Project%20ScreenShots/NextJS%20web-app/Screenshot%20from%202026-02-28%2008-13-46.png" width="45%" border="1" />
+  <br>
   <img src="Project%20ScreenShots/NextJS%20web-app/Screenshot%20from%202026-02-28%2008-14-33.png" width="91%" border="1" />
 </div>
 
-### 📱 Mobile Experience (Flutter)
+### Mobile Experience (Flutter)
 Premium mobile app with smooth transitions and offline-first mindset.
 
 <div align="center">
-  <img src="Project%20ScreenShots/Flutter%20mobile-app/Screenshot_2026-02-28-08-15-59-430_com.taskapp.task_app_mobile.jpg.jpeg" width="30%" />
-  <img src="Project%20ScreenShots/Flutter%20mobile-app/Screenshot_2026-02-28-08-16-02-226_com.taskapp.task_app_mobile.jpg.jpeg" width="30%" />
-  <img src="Project%20ScreenShots/Flutter%20mobile-app/Screenshot_2026-02-28-08-16-05-252_com.taskapp.task_app_mobile.jpg.jpeg" width="30%" />
+  <img src="Project%20ScreenShots/Flutter%20mobile-app/Screenshot_2026-02-28-08-15-59-430_com.taskapp.task_app_mobile.jpg.jpeg" width="31%" />
+  <img src="Project%20ScreenShots/Flutter%20mobile-app/Screenshot_2026-02-28-08-16-02-226_com.taskapp.task_app_mobile.jpg.jpeg" width="31%" />
+  <img src="Project%20ScreenShots/Flutter%20mobile-app/Screenshot_2026-02-28-08-16-05-252_com.taskapp.task_app_mobile.jpg.jpeg" width="31%" />
+  <br>
+  <img src="Project%20ScreenShots/Flutter%20mobile-app/Screenshot_2026-02-28-08-16-17-492_com.taskapp.task_app_mobile.jpg.jpeg" width="45%" />
+  <img src="Project%20ScreenShots/Flutter%20mobile-app/Screenshot_2026-02-28-08-16-21-990_com.taskapp.task_app_mobile.jpg.jpeg" width="45%" />
 </div>
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1. The Engine (Backend)
 First, we need to get the server up and running so the apps have someone to talk to.
