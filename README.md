@@ -91,7 +91,7 @@ A premium Flutter app with glassmorphism, smooth animations, and a clean UI.
 
 ---
 
-## ✨ Features
+## Features
 
 *   **Web Dashboard:** Built with Next.js, Framer Motion for those smooth transitions, and a clean "Glass" aesthetic.
 *   **Mobile App:** Flutter + Riverpod for rock-solid state management. We used custom SVGs and premium micro-animations to make it feel high-end.
@@ -100,7 +100,7 @@ A premium Flutter app with glassmorphism, smooth animations, and a clean UI.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 *   **Frontend:** Next.js, Tailwind CSS, Lucide Icons
 *   **Mobile:** Flutter, Riverpod, Flutter Animate
 *   **Backend:** Express.js, Prisma, PostgreSQL
