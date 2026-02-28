@@ -106,5 +106,11 @@ A premium Flutter app with glassmorphism, smooth animations, and a clean UI.
 *   **Backend:** Express.js, Prisma, PostgreSQL
 *   **State:** TanStack Query (Web) & Riverpod (Mobile)
 
+---
+
+## License
+
+This project is owned by **Aditya Nanda**. It is licensed under a Personal and Non-Commercial License. You are free to use, edit, and modify the code, but you are **not permitted to re-sell** this application or its source code.
+
 Enjoy the clean workspace! If you run into any connection issues on the phone, just remember the `adb reverse` trick!
 
